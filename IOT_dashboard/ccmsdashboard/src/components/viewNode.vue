@@ -5,7 +5,7 @@
                 <div class="col s3" id="view-node"><h3><p class="z-depth-3">Current : {{current}} <br/> Voltage : {{voltage}} </p></h3></div>
                 <div class="col s6" id="view-node">
                     <div class="row">
-                        <div class="col s12" id="view-node"><h1><p class="z-depth-3">Insert map based on {{lat}} and {{long}}</p></h1></div>
+                        <div class="col s12" id="view-node"><h1><p class="z-depth-3"><img src="map1.png"></p></h1></div>
                     </div>
                     <div class="row" id="view-node">
                         <div class="col s4" id="view-node"><p class="z-depth-3">Moisture: {{moisture}} <br/> Temperature : {{temp}}</p></div>
