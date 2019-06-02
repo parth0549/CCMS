@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045497590588",
+    "firebase_url": "https://ccms-db.firebaseio.com",
+    "project_id": "ccms-db",
+    "storage_bucket": "ccms-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045497590588:android:8e9cf173f84ee9ee",
+        "android_client_info": {
+          "package_name": "com.example.ccms2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045497590588-m96v2pk8jug5h5bu3bgk08h5946uhogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdCNoj4RayqxtDu6OzaJTRsjVJcAa5zOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045497590588-m96v2pk8jug5h5bu3bgk08h5946uhogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
